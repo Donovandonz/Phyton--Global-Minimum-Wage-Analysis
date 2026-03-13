@@ -298,4 +298,15 @@ text
 - 🇨🇷 **Caribbean**: Two countries in top 10
 - 🇦🇸 **Asia**: Widest internal range ($7-$1,526)
 
+---
+
+# Visual and Code Overview
+-<a href="https://github.com/Donovandonz/Phyton--Global-Minimum-Wage-Analysis/blob/main/Global_Min_Wage.ipynb">Global-min-wage-code-and-visual</a>
+
+---
+
+
+
+
+
 
